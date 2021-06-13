@@ -12,7 +12,7 @@ public class Exceptions{
         // }
         // System.out.println(list);
         for(int i=0; i< list.size();i++){
-            try{
+        try{
                 Integer value = (Integer) list.get(i);
                 System.out.println(value);
             }catch(Exception e){
