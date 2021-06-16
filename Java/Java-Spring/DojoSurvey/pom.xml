@@ -8,12 +8,12 @@
 		<version>2.5.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.ghazal.code</groupId>
-	<artifactId>Code</artifactId>
+	<groupId>com.ghazal.dojo</groupId>
+	<artifactId>DojoSurvey</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>Code</name>
-	<description>routing assignment</description>
+	<name>DojoSurvey</name>
+	<description>Dojo Survey assignment</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
@@ -34,14 +34,6 @@
 			<scope>test</scope>
 		</dependency>
 		<dependency>
-                <groupId>org.apache.tomcat.embed</groupId>
-                <artifactId>tomcat-embed-jasper</artifactId>
-        </dependency>
-        <dependency>
-                <groupId>javax.servlet</groupId>
-                <artifactId>jstl</artifactId>
-        </dependency>
-        <dependency>
                 <groupId>org.apache.tomcat.embed</groupId>
                 <artifactId>tomcat-embed-jasper</artifactId>
         </dependency>

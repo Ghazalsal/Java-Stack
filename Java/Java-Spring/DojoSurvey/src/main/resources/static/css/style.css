@@ -1,0 +1,21 @@
+
+body{
+    margin: 0 auto;
+    height: 200px;
+    width: 400px;
+    
+}
+
+.box{
+    border: 1px solid black;
+    display: inline-block;
+    padding: 20px;
+    margin-top: 10px;
+    background-color: wheat;
+}
+.one{
+    float: right;
+}
+h1{
+    text-decoration: underline;
+}
