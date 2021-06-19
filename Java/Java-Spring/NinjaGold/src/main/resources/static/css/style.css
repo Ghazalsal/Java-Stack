@@ -1,0 +1,34 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    padding: 15px;
+    margin: 0 auto;
+    width: 1000px;
+    border: 1px solid black;
+    height: fit-content;
+}
+
+section{
+    padding-top: 20px;
+    display: flex;
+    text-align: center;
+}
+.box{
+    border: 2px solid black;
+    padding: 10px;
+    flex: 1;
+    margin: 20px;
+}
+article{
+    padding-top: 30px;
+    display: block;
+    padding-bottom: 20px;
+}
+.text{
+    width: 1000px;
+    height: 100px;
+}
