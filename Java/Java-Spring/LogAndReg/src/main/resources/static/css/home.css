@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+.user-form {
+	display: inline-block;
+	width: 45%;
+	vertical-align: top;
+	margin: 20px;
+}
+.event-details-side {
+	display: inline-block;
+	width: 45%;
+	vertical-align: top;
+	margin: 20px;
+}
+.messages{
+	border: solid black;
+	min-height: 10px;
+	max-height: 200px;
+	overflow-y: scroll;
+}
+.delete-form {
+	display: inline-block;
+}

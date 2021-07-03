@@ -1,0 +1,9 @@
+.main{
+	display:flex;
+}
+.box{
+	flex: 1;
+	border: 1px solid black;
+	margin:20px;
+	padding:10px;
+}
